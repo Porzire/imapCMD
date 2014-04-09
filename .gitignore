@@ -1,0 +1,9 @@
+.*
+*.pyc
+*.pyo
+*.svn
+*.zip
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
